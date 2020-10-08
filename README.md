@@ -13,10 +13,23 @@
 
 Hi, I'm Leo Zorzoli, a Argentinian Web Developer. Beside's programming, I enjoy watch :movie_camera: movies and play :video_game: games.
 
-- :computer: I’m currently working with Python / Django
-- :memo: I’m currently learning Node / React 
+- :computer: I’m currently working with Python / Django / React
+- :memo: I’m currently learning Node  / GraphQL / Typescript
 
-- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+**Languages and Tools:**  
 
-![Leo github stats](https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=tokyonight)
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+<details>
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=gotham" alt="leozorzoli" />
+
+</details>
+
 
