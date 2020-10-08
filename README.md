@@ -1,4 +1,4 @@
-### Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 🇦🇷
+### Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/programandom">
   <img align="left" alt="Programando con Mates | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Leo Zorzoli, a Argentinian Web Developer. Beside's programming, I enjoy watch :movie_camera: movies and play :video_game: games.
+Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. Beside's programming.
 
 - :computer: I’m currently working with Python / Django / React
 - :memo: I’m currently learning Node  / GraphQL / Typescript
