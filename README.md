@@ -31,8 +31,8 @@ Hi, I'm Leo Zorzoli, a Argentinian Web Developer. Beside's programming, I enjoy 
 <br />
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=gotham" alt="Leozorzoli Stats" /> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arshiamidos&layout=compact&theme=tokyonight" alt="Leozorzoli Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=tokyonight" alt="LeoZorzoli Stats" width="420"/>&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzoli&layout=compact&theme=tokyonight" alt="LeoZorzoli Languages" height="165">
 </p>
 
 </details>
