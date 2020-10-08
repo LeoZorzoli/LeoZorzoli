@@ -7,5 +7,7 @@
   <img align="left" alt="Leonel Zorzoli LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
+![](https://visitor-badge.glitch.me/badge?page_id=leozorzoli)
+
 ![Leo github stats](https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=tokyonight)
 
