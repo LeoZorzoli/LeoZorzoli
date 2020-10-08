@@ -13,5 +13,10 @@
 
 Hi, I'm Leo Zorzoli, a Argentinian Web Developer. Beside's programming, I enjoy watch :movie_camera: movies and play :video_game: games.
 
+- :computer: I’m currently working with Python / Django
+- :memo: I’m currently learning Node / React 
+
+- 📝[Resume](https://drive.google.com/file/d/10GKdScol1BXsMQmSVO30rswZ8lqkakmy/view)
+
 ![Leo github stats](https://github-readme-stats.vercel.app/api?username=leozorzoli&show_icons=true&theme=tokyonight)
 
