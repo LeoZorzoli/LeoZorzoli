@@ -39,7 +39,7 @@ Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. Beside's programming.
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=flat-square&logo=linux&logoColor=white)
   ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=flat-square&logo=windows&logoColor=white)
 
-<details>
+
 <summary>📈 My GitHub Stats</summary>
 
 <br />
@@ -49,6 +49,6 @@ Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. Beside's programming.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leozorzoli&layout=compact&theme=dracula" alt="LeoZorzoli Languages" height="165">
 </p>
 
-</details>
+
 
 
