@@ -11,7 +11,7 @@
 
 <br />
 
-Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. Beside's programming.
+Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. 
 
 - :computer: I’m currently working with Python / Django / React
 - :memo: I’m currently learning Node  / GraphQL / Typescript
