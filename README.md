@@ -21,6 +21,8 @@ Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. Beside's programming.
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=flat-square&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=fff)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white)
+  ![Sass](https://img.shields.io/badge/-Sass-f043ca?style=flat-square&logo=sass&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
   ![Django](https://img.shields.io/badge/-Django-2c852f?style=flat-square&logo=django&logoColor=white)
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=flat-square&logo=react&logoColor=white)
