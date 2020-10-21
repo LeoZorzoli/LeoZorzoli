@@ -11,6 +11,11 @@ Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer.
 - :computer: I’m currently working with Python / Django / React
 - :memo: I’m currently learning Node  / GraphQL / Typescript
 
+<div align="center">
+  <h4>Currently participating in Nerdear.la</h4>
+  <a><img src="https://pbs.twimg.com/profile_images/1025445430639972353/n2mgjiXw_400x400.jpg" /> </a>
+</div>
+
 **Languages and Tools:**  
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
