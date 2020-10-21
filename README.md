@@ -12,7 +12,7 @@ Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer.
 - :memo: I’m currently learning Node  / GraphQL / Typescript
   
  <div align="center">
-  <p>Currently participating in Nerdear.la</p>
+  <h1>Currently participating in Nerdear.la</h1>
   <a href="https://nerdear.la/"><img src="https://pbs.twimg.com/profile_images/1025445430639972353/n2mgjiXw_400x400.jpg" /> </a>
  </div>
 
