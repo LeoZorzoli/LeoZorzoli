@@ -8,10 +8,9 @@
 
 <br />
 
-Hi, I'm Leo Zorzoli, a Argentinian 🇦🇷 Web Developer. 
+Hi, I'm Leo Zorzoli, an Argentinian 🇦🇷 Web Developer. 
 
-- :computer: I’m currently working with Python / Django / React
-- :memo: I’m currently learning Node  / GraphQL / Typescript
+- :computer: I’m currently working with C# / .NET / Angular
 
 **Languages and Tools:**  
 
