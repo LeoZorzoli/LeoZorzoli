@@ -10,7 +10,7 @@
 
 Hi, I'm Leo Zorzoli, an Argentinian 🇦🇷 Web Developer. 
 
-- :computer: I’m currently working with C# / .NET / Angular
+- :computer: I’m currently working with C# / .NET / Angular / Typescript
 
 **Languages and Tools:**  
 
