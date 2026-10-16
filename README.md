@@ -1,6 +1,5 @@
 ### Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://twitter.com/programandom"><img src="https://img.shields.io/twitter/follow/ProgramandoM?label=Twitter&style=social" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/leonelzorzoli/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a>
 <a href="https://leoneljzorzoli.web.app/"><img src="https://img.shields.io/badge/-Personal%20Page-black?style=flat-square" alt="Portfolio"></a>
 <a href="https://www.hackerrank.com/zorzolileonel"><img src="https://img.shields.io/badge/-HackerRank-black?style=flat-square&logo=hackerrank&logoColor=2aad56" alt="HackerRank"></a>
